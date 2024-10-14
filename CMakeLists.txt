@@ -30,3 +30,4 @@ project(${SIMPLEHTTPSERVER_PROJECT_NAME})
 set(SIMPLEHTTPSERVER_SRC_DIR ${PROJECT_SOURCE_DIR}/src)
 
 add_subdirectory(src)
+
