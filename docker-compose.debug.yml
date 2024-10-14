@@ -1,0 +1,8 @@
+version: '1.0.0'
+
+services:
+  workspacegit:
+    image: callbotGateway
+    build:
+      context: .
+      dockerfile: ./Dockerfile
